@@ -3,17 +3,23 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "abmstore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw@rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
-    }
+      "value": "abm1969"
+    },
+    "location": {
+      "value": "UK South"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
+    },
   }
 }
 
